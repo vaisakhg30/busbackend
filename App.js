@@ -56,15 +56,15 @@ app.get("/api/viewall",(req,res)=>{
                 }
             }
         )
+       
+
+        })
+            
+
         app.listen(4001,()=>{
             console.log("server running")
 
-        }
-            )
-
-
-
-    }
+    } 
 
 
     )
